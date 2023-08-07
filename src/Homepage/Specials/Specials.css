@@ -1,0 +1,66 @@
+.specials{
+    padding: 5vh 10%;
+}
+.specials-1{
+    display: flex;
+    justify-content: space-between;
+}
+.specials-1 h1{
+    font-size: 2.5rem;
+    font-weight: 500;
+    width: 60%;
+}
+.specials-1 button{
+    font-size: 1.05rem;
+    font-weight: 400;
+    color: #EDEFEE;
+    background: #89883D;
+    padding: 1.5vh 5%;
+    border: 0;
+    border-radius: 16px;
+    cursor: pointer;
+
+}
+.specials-2{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5vh;
+}
+.card{
+    width: 31%;
+    border-radius: 16px 16px 0px 0px;
+    background: #EDEFEE;
+    box-shadow: #495E57;
+}
+.card img{
+    width: 100%;
+    border-radius: 16px 16px 0px 0px;
+}
+.card .greek{
+    display: flex;
+    justify-content: space-between;
+    padding: 2vh 3% 0;
+}
+.greek h2{
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+.greek span{
+    color: #EE9972;
+    font-size: 1rem;
+    font-weight: 700;
+}
+.card p{
+    color: #495E57;
+    font-size: 1rem;
+    font-weight: 400;
+    padding: 2vh 3% 0;
+}
+.card button{
+    font-size: 1rem;
+    font-weight: 700;
+    border: 0;
+    color: #333;
+    padding: 2vh 3% 2vh;
+    cursor: pointer;
+}

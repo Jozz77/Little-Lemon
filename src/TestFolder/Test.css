@@ -1,0 +1,21 @@
+.test{
+    margin: 5vh auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30%;
+    width: 40%;
+}
+.test button{
+    background-color: blue;
+    color: white;
+    border: 0;
+    border-radius: 16px;
+    font-size: 1.5rem;
+    font-weight: 500;
+    padding: 1vh 20%;
+    cursor: pointer;
+}
+.test p{
+    font-size: 1.7rem;
+}
